@@ -1,4 +1,4 @@
-# ✨🌟 Welcome to My Sparkly Code Universe! 🌟✨
+# ✨🌟 Welcome to My Profile! 🌟✨
 
 ## 👩‍💻 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 
