@@ -15,7 +15,7 @@
 
 ## 🌸 𝑀𝓎 𝒯𝑒𝒸𝒽 𝐹𝓁𝑜𝓌𝑒𝓇 𝒢𝒶𝓇𝒹𝑒𝓃
 
-🌼 Python | 🌻 TensorFlow | 🌺 PyTorch | 🌹 Scikit-learn
+🌼 Python | 🌻 TensorFlow | 🌺 PyTorch | 🌹 Scikit-learn | 🤓 NumPy(?!)
 
 ## 🌟 𝐸𝓍𝓉𝓇𝒶
 
