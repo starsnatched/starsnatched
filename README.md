@@ -17,7 +17,7 @@
 
 🌼 Python | 🌻 TensorFlow | 🌺 PyTorch | 🌹 Scikit-learn
 
-## ✨ 𝒢𝑒𝓉 𝒾𝓃 𝒯𝑜𝓊𝒸𝒽
+## 🌟 𝐸𝓍𝓉𝓇𝒶
 
 🤗 [HuggingFace](https://huggingface.co/starsnatched)
 
