@@ -5,6 +5,6 @@
 🌼 Python | 🌻 TensorFlow | 🌺 PyTorch | 🌹 Scikit-learn | 🤓 NumPy(?!)
 
 
-🤗 [HuggingFace](https://huggingface.co/starsnatched)
+🤗 [HuggingFace](https://huggingface.co/minchyeom)
 
 
